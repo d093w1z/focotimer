@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug focotimer",
+      "type": "go",
+      "request": "launch",
+      "program": "${workspaceFolder}/gui/focotimer --polybar"
+    }
+  ]
+}
+
